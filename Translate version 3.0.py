@@ -1,7 +1,3 @@
-#Miguel Germosen
-#00305683
-#Final project
-
 import os
 import requests
 import json
